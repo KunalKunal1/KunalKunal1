@@ -78,5 +78,5 @@
 
 <p align="center">
   🧡 *"Better an oops than a what if."*  
-  <br>✨ Built with love by <b>Kunal Mhaisane</b> ✨
+  <br>✨ Built with love  ✨
 </p>
