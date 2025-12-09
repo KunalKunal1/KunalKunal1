@@ -1,4 +1,3 @@
-kastuei se hai adat teri
 
 
 <!-- 
